@@ -56,7 +56,15 @@ This project analyzes the Top Spotify Songs in 73 Countries dataset by Asaniczka
 📌 **Line Graph** – Illustrated the trends and fluctuations in average song popularity growth over time, providing insights into both short-term and long-term shifts in song popularity.
 
 ---
+### Limitations:
 
+- **Missing Country Data**: Approximately 20,000 entries were omitted due to the absence of country information. This decision was made to ensure the accuracy of regional insights, though it may have led to the exclusion of certain global trends. The missing data likely stemmed from incomplete records in the dataset, which could skew the representation of global music preferences.
+
+- **Geographic Exclusion**: The dataset represented only 73 countries, with notable exclusions in **continental Africa**, **Eastern Europe**, and the two major countries **China** and **Russia**. These regions often have distinct music consumption patterns that may not be reflected in this analysis, which could lead to an incomplete picture of global song popularity trends.
+
+- **Time Period**: The analysis was based on data from **2023-2024**, limiting insights to a short timeframe. As a result, long-term trends or shifts in song popularity, particularly those driven by cultural or global events, may not be captured in this dataset.
+
+---
 ### **Next Steps**
 The noticeable growth rate anomaly between western and non-western countries calls for a deeper exploration into the underlying factors that may be driving these trends. Potential areas for investigation could include cultural, socio-economic, or regional shifts that influence music preferences during specific times of the year. Additionally, it would be valuable to examine how external factors, such as holidays, festivals, or major events, correlate with spikes in song popularity.
 
