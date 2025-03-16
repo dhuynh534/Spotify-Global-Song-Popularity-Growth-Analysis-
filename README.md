@@ -1,8 +1,8 @@
-## **Global Song Popularity Growth Analysis**
+## **Spotify Global Song Popularity Trend Analysis & Regional Insights**
 **SQL Data Cleaning and Tableau Dashboard for Spotify Data Visualization**
 
 ### **Project Overview**
-This project analyzes the **Top Spotify Songs in 73 Countries** dataset by **Asaniczka** on Kaggle. The objective was to explore song popularity growth across 73 countries and uncover insights into trends, relationships, and factors influencing monthly performance.
+This project analyzes the Top Spotify Songs in 73 Countries dataset by Asaniczka on Kaggle. The goal was to identify regional growth patterns in song popularity using SQL for data manipulation and Tableau for data visualization. Key insights include notable seasonal growth trends in non-western countries and consistent growth in western markets.
 
 🔗 **[Interactive Tableau Dashboard](https://public.tableau.com/shared/R8692W9MW?:display_count=n&:origin=viz_share_link)**  
 📂 **[Dataset: Top Spotify Songs in 73 Countries](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated)**
